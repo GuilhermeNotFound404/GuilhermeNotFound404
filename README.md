@@ -1,6 +1,15 @@
 ### Nós somos do tecido de que são feitos os sonhos.
 - William Shakespeare
 
+<img src="file:///C:/Users/leona/Downloads/devGuilherme.png" alt="Meu logo"/>
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/GuilhermeNotFound404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNotFound404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
