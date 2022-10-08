@@ -6,7 +6,6 @@
 
 
 
- ![snake gif](https://github.com/GuilhermeNotFound404/GuilhermeNotFound404/blob/output/github-contribution-grid-snake.svg)
 
 
 
