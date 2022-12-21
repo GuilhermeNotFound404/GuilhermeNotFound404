@@ -1,7 +1,7 @@
 ### Nós somos do tecido de que são feitos os sonhos.
 - William Shakespeare
 
-<img src="https://i.ibb.co/7pWRT2V/dev-Guilherme.png" alt="Meu logo"/>
+
 
 
 
