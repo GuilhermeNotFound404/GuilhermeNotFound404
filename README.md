@@ -1,9 +1,8 @@
 Olá, meus amigos!
-linkedin
-discord
 
-Meu nome é Guilherme
-Bem-vindo ao meu perfil. Atualmente, estou utilizando React com Next.js e React Native como minhas principais ferramentas, e também praticando outras.
+
+Me cham Guilherme, estudo React/Native, next.js...
+
 
 <br>
 <div align="center" style="display: flex">
