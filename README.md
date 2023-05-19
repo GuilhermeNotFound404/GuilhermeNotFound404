@@ -1,35 +1,21 @@
-### Nós somos do tecido de que são feitos os sonhos.
-- William Shakespeare
+Olá, meus amigos!
 
+Me chamo Guilherme, estudante de React, React Native e Netx.js...
 
-
-
-
-
-
-
-
-<div align="center">
+<br>
+<div align="center" style="display: flex">
   <a href="https://github.com/GuilhermeNotFound404">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNotFound404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="49%" align="center" src="https://github-readme-stats-guilhermenotfound404.vercel.app/api?username=GuilhermeNotFound404&show_icons=true&theme=omni&count_private=true&hide_border=true&border_radius=32&bg_color=45,483C67,191622" />
+  </a>
+  <a>
+    <img width="49%" align="center" src="https://streak-stats.demolab.com/?user=GuilhermeNotFound404&theme=omni&hide_border=true&mode=weekly&background=45%2C483C67%2C191622&border_radius=32" />
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/c/Guilherme0404" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilherme_hq_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/invite/cyJ29XrT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeNotFound404/GuilhermeNotFound404/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-guilhermenotfound404.vercel.app/api/top-langs/?username=GuilhermeNotFound404&theme=omni&layout=compact&hide_border=true&border_radius=32&bg_color=45,483C67,191622" />
+</p>
+<!-- ![perfil]
+![linguagens] -->
+<!-- [perfil]: https://github-readme-stats-guilhermenotfound404.vercel.app/api?username=GuilhermeNotFound404&show_icons=true&theme=omni&count_private=true&hide_border=true
+[linguagens]: https://github-readme-stats-guilhermenotfound404.vercel.app/api/top-langs/?username=GuilhermeNotFound404&theme=omni&layout=compact&hide_border=true
+ -->
