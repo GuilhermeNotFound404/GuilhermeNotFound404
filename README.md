@@ -1,7 +1,7 @@
 Olá, meus amigos!
 
 
-Me cham Guilherme, estudo React/Native, next.js...
+Me chamo Guilherme, estudo React/Native, next.js...
 
 
 <br>
